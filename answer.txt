@@ -1,0 +1,24 @@
+question 1
+  variable = 'variable'
+  string = 'some text'
+  float = 1.6
+  integer = 10
+
+question 2
+we access seconds car color with
+car[1][:color]
+
+question 4
+  create Gemfile
+  edit Gemfile
+    source 'https://rubygems.org'
+
+    gem 'rspec'
+
+  save file
+
+  in cli run
+    rspec --init
+
+
+we write our tests first so we can get better understanding of what we want to happen and so we can test whatever we are trying to accomplish.
